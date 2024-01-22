@@ -1,0 +1,17 @@
+{
+  "annotations": {
+    "changelogDate": "20240122163732"
+  },
+  "applications": "*",
+  "entityTableName": "region",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Region",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
