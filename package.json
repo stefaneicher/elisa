@@ -126,7 +126,7 @@
     "cypress-audit": "1.1.0",
     "eslint": "8.55.0",
     "eslint-config-prettier": "9.1.0",
-    "eslint-plugin-cypress": "2.15.1",
+    "eslint-plugin-cypress": "2.15.2",
     "eslint-webpack-plugin": "4.0.1",
     "folder-hash": "4.0.4",
     "generator-jhipster": "8.1.0",
