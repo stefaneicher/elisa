@@ -159,6 +159,6 @@
     "node_modules"
   ],
   "overrides": {
-    "webpack": "5.96.0"
+    "webpack": "5.96.1"
   }
 }
