@@ -114,7 +114,7 @@
     "@angular/compiler-cli": "19.1.4",
     "@angular/service-worker": "19.1.4",
     "@types/jest": "29.5.14",
-    "@types/node": "22.12.0",
+    "@types/node": "22.13.0",
     "@typescript-eslint/eslint-plugin": "8.22.0",
     "@typescript-eslint/parser": "8.22.0",
     "browser-sync": "3.0.3",
