@@ -30,7 +30,7 @@
         <run.addResources>false</run.addResources>
         <jhipster-dependencies.version>8.11.0</jhipster-dependencies.version>
         <spring-boot.version>3.4.5</spring-boot.version>
-        <archunit-junit5.version>1.4.0</archunit-junit5.version>
+        <archunit-junit5.version>1.4.1</archunit-junit5.version>
         <checkstyle.version>10.23.1</checkstyle.version>
         <checksum-maven-plugin.version>1.11</checksum-maven-plugin.version>
         <frontend-maven-plugin.version>1.15.1</frontend-maven-plugin.version>
