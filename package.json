@@ -144,7 +144,7 @@
     "prettier-plugin-java": "2.7.5",
     "prettier-plugin-packagejson": "2.5.19",
     "rimraf": "6.0.1",
-    "swagger-ui-dist": "5.29.2",
+    "swagger-ui-dist": "5.29.3",
     "ts-jest": "29.4.4",
     "typescript": "5.9.3",
     "wait-on": "9.0.1",
