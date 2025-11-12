@@ -108,9 +108,9 @@
   "devDependencies": {
     "@angular-builders/custom-webpack": "20.0.0",
     "@angular-builders/jest": "20.0.0",
-    "@angular-devkit/build-angular": "20.3.9",
+    "@angular-devkit/build-angular": "20.3.10",
     "@angular-eslint/eslint-plugin": "20.6.0",
-    "@angular/cli": "20.3.9",
+    "@angular/cli": "20.3.10",
     "@angular/compiler-cli": "20.3.11",
     "@angular/service-worker": "20.3.11",
     "@types/jest": "30.0.0",
