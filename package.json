@@ -140,7 +140,7 @@
     "lighthouse": "13.0.1",
     "lint-staged": "16.2.7",
     "merge-jsons-webpack-plugin": "2.0.1",
-    "prettier": "3.7.3",
+    "prettier": "3.7.4",
     "prettier-plugin-java": "2.7.7",
     "prettier-plugin-packagejson": "2.5.20",
     "rimraf": "6.1.2",
