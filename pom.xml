@@ -38,7 +38,7 @@
         <gatling.version>3.14.9</gatling.version>
         <git-commit-id-maven-plugin.version>9.0.2</git-commit-id-maven-plugin.version>
         <h2.version>2.4.240</h2.version>
-        <hibernate.version>7.2.0.Final</hibernate.version>
+        <hibernate.version>7.2.1.Final</hibernate.version>
         <jacoco-maven-plugin.version>0.8.14</jacoco-maven-plugin.version>
         <jaxb-runtime.version>4.0.6</jaxb-runtime.version>
         <jib-maven-plugin.architecture>amd64</jib-maven-plugin.architecture>
