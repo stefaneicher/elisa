@@ -124,7 +124,7 @@
     "copy-webpack-plugin": "14.0.0",
     "cypress": "15.13.0",
     "cypress-audit": "1.1.0",
-    "eslint": "10.1.0",
+    "eslint": "10.2.0",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-cypress": "6.2.2",
     "eslint-webpack-plugin": "6.0.0",
