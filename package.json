@@ -120,7 +120,7 @@
     "browser-sync": "3.0.4",
     "browser-sync-webpack-plugin": "2.4.0",
     "buffer": "6.0.3",
-    "concurrently": "10.0.0",
+    "concurrently": "10.0.1",
     "copy-webpack-plugin": "14.0.0",
     "cypress": "15.16.0",
     "cypress-audit": "1.1.0",
