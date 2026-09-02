@@ -108,9 +108,9 @@
   "devDependencies": {
     "@angular-builders/custom-webpack": "22.0.1",
     "@angular-builders/jest": "22.0.1",
-    "@angular-devkit/build-angular": "22.1.6",
+    "@angular-devkit/build-angular": "22.1.7",
     "@angular-eslint/eslint-plugin": "22.2.0",
-    "@angular/cli": "22.1.6",
+    "@angular/cli": "22.1.7",
     "@angular/compiler-cli": "22.1.4",
     "@angular/service-worker": "22.1.4",
     "@types/jest": "30.0.0",
