@@ -37,7 +37,7 @@
         <gatling-maven-plugin.version>4.21.11</gatling-maven-plugin.version>
         <gatling.version>3.15.1</gatling.version>
         <git-commit-id-maven-plugin.version>10.0.1</git-commit-id-maven-plugin.version>
-        <h2.version>2.4.240</h2.version>
+        <h2.version>2.5.250</h2.version>
         <hibernate.version>7.4.7.Final</hibernate.version>
         <jacoco-maven-plugin.version>0.8.15</jacoco-maven-plugin.version>
         <jaxb-runtime.version>4.0.9</jaxb-runtime.version>
