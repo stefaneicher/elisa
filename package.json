@@ -148,7 +148,7 @@
     "ts-jest": "29.4.15",
     "typescript": "7.0.2",
     "wait-on": "9.5.1",
-    "webpack-bundle-analyzer": "5.4.1",
+    "webpack-bundle-analyzer": "5.4.2",
     "webpack-merge": "6.0.1",
     "webpack-notifier": "1.17.0"
   },
